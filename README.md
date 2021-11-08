@@ -5,3 +5,4 @@
 - Ivan Felipe Mejia Peña - Administrador BD
 - Juan David Peñaranda Analista
 - Jose Luis Garcia -Desarrollador
+- Juan Pablo Chavarria - Analista
